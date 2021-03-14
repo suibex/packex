@@ -2,7 +2,7 @@
 🔵 Package Manager for Debian based Linux distros.<br />
 🔵 This is a little side project for our start-up.<br />
 🔵 We will update the code as we get the ideas for the repositories.<br />
-🔵 We hope you will enjoy it just as much as we did when we were making it!.<br />
+🔵 We hope you will enjoy it just as much as we did when we were making it!<br />
 
 🔵 Install process:<br />
 -------------------------
