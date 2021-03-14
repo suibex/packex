@@ -1,6 +1,6 @@
 # packex
 Package Manager for Debian based Linux distros.<br />
-Install process.<br />
+Install process:<br />
 ```diff
   1.Open terminal. <br />
   2.Type:"sudo -s" and enter a password for the account.<br />
