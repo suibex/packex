@@ -1,0 +1,26 @@
+#PACKEX FILE MANAGER V1.0 HELP GUIDE
+#Made by Suibex Solutions.
+#BUILD March,2021.
+
+WHY TO USE PACKEX?:
+//Have you ever looked for package on Debian , that you just have to download from web browser?
+If you did. We have a solution.It is our ( i mean mine) package manager called "packex".
+Packex used is for downloading that packages ,so you don't have to search for them online.
+HOW TO USE:
+
+If you want to install a package( we currently have a limited number of packages) type:
+packex {and then a name of package}
+EXAMPLE:
+packex discord
+then our package manager will download it for you.//
+
+/* ENDLINE */
+//Start summary
+//List of packages:
+1.Discord(.tar.gz,.deb)
+2.TeamViewer(.deb only)
+3.Steam(.deb only)
+4.IDA(.run)
+5.HDDSentinel(.tar.gz)
+6.OBS(FULL INSTALL OF OBS!)
+
